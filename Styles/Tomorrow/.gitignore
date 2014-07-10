@@ -1,0 +1,8 @@
+# Espresso
+*.esproj/*
+
+# OS X
+.DS_Store
+
+# Vim
+*.swp
